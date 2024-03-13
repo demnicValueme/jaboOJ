@@ -9,6 +9,6 @@ yarn install
 ### 启动
 
 ```shell
-yarn run
+yarn run serve
 ```
 

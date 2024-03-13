@@ -8,7 +8,9 @@
         <router-view />
       </a-layout-content>
       <a-layout-footer class="footer">
-        <a href="https://4399.com" target="_blank"> 嘉宝OJ by 宇芙 </a>
+        <a href="https://github.com/demnicValueme/jaboOJ" target="_blank">
+          嘉宝OJ by 恩嗯oo
+        </a>
       </a-layout-footer>
     </a-layout>
   </div>
